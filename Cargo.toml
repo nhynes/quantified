@@ -1,0 +1,10 @@
+[package]
+name = "quantified"
+version = "0.1.0"
+license = "MIT"
+description = "Generalized Option that includes inverse selections and everything."
+authors = ["Nick Hynes <nhynes@nhynes.com>"]
+edition = "2018"
+categories = ["no-std", "rust-patterns"]
+
+[dependencies]
